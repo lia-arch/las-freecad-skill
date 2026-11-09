@@ -1,0 +1,14 @@
+Jay's FreeCAD Skill
+Copyright 2026 Jay's FreeCAD Skill contributors
+
+Credit where it is due: the workflow of this skill (build the model, render it from
+several angles, and look at the images before handing a part over) was inspired by
+the "openscad" skill in mitsuhiko/agent-stuff
+(https://github.com/mitsuhiko/agent-stuff), Apache License 2.0.
+
+The tools, the SKILL.md instructions and the example models in this repository were
+written new for FreeCAD. The tool file names (validate, preview, multi-preview,
+extract-params, render-with-params) match that skill's on purpose, so anyone who
+knows one will recognise the other. The example parts (a lidded box and a phone
+stand) are new FreeCAD designs of the same two objects, and they keep that skill's
+parameter names and default sizes.

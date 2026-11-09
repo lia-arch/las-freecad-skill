@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+# outputs from trying the tools
+previews/
+*.stl
+*.3mf
+*.obj
+*.step
+*.stp
+*.brep
