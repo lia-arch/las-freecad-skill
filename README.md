@@ -1,4 +1,4 @@
-# Jay's FreeCAD Skill
+# LAS FreeCAD Skill
 
 An agent skill that lets Claude Code (or any agent that reads `SKILL.md` files) design
 3D-printable parts in **FreeCAD**, fully headless: write a parametric Python model, check that it
@@ -11,8 +11,8 @@ No FreeCAD window opens and nothing extra is installed. It only needs FreeCAD 1.
 ## Install
 
 ```bash
-git clone https://github.com/lia-arch/jays-freecad-skill.git
-cp -R jays-freecad-skill/skills/freecad ~/.claude/skills/freecad
+git clone https://github.com/lia-arch/las-freecad-skill.git
+cp -R las-freecad-skill/skills/freecad ~/.claude/skills/freecad
 ```
 
 Then ask Claude for a part, for example: *"Design a 60 x 40 mm box with a snap-on lid for my
